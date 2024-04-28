@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "DTIGE"
-version = "0.0.0"
+version = "0.1.0"
 description = "Deceptive Text Identification and Generation Engine (DTIGE)"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"
