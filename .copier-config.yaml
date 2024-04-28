@@ -1,0 +1,41 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.14.3
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+codecov_graph_token: NWrQzoyGku
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://dtige.entelecheia.ai
+email: entelecheia@hotmail.com
+favicon_path: https://assets.entelecheia.ai/favicon.png
+friendly_name: Deceptive Text Identification and Generation Engine (DTIGE)
+github_repo_name: DTIGE
+github_username: entelecheia
+google_analytics_id: G-CZYFFQPZG3
+logo_path: ''
+main_branch: main
+open_link: false
+package_name: dtige
+package_scripts:
+- dtige = 'dtige.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: The Deceptive Text Identification and Generation Engine (DTIGE)
+    is a novel language model framework that aims to mimic deceptive marketing materials
+    through its generator component while its discriminator component assesses and
+    improves its capability to recognize deceptive texts. The ultimate goal is to
+    enhance both the detection of deceptive content and the understanding of deceptive
+    practices in digital marketing, thus aiding in regulatory compliance and content
+    moderation.
+project_license: MIT
+project_name: DTIGE
+project_short_description: Deceptive Text Identification and Generation Engine (DTIGE)
+upload_to_release: true
+upload_to_repository: true
+use_launch_buttons: true
+use_source_code_skeleton: true
+
